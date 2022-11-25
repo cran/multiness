@@ -1,9 +1,9 @@
-b4b88e03da9f031bdd9343b5e6226296 *DESCRIPTION
+b97d23ddf908a868fa05f26c0b402131 *DESCRIPTION
 8f6e0d019bcceffbabec52ebc5e3d053 *NAMESPACE
 f2011c641287e5171fcb436b7c7ea393 *NEWS.md
 e21d0f474480f425fa7493f43c91f944 *R/agri_trade.R
 617c81cc11a04cefcd027249ec1c49c0 *R/edge_cv.R
-a1e38cb8d20aff39dbfa1e42a9d85962 *R/multiness_fit.R
+5a3422fd5cc52babd8d4323d13fdaee0 *R/multiness_fit.R
 5a764a7094bb5ea667bd4078ddc9cfad *R/multiness_sim.R
 2f487ca22099344158546284b58f0081 *R/noisy_sequence.R
 67acdc45d0811faa8dcbcf4ab7012fdf *R/noisy_sequence_logit.R
@@ -12,12 +12,12 @@ ddc8ca75168183da0d95d876e73a3f1d *R/prox_gd_memeff.R
 9e829dd7d1bc2a6917bca8daf67217d4 *R/prox_gd_utils.R
 4a4f47b935620df36c96b8094824bd9d *R/sv_thresholding.R
 38cf77ceaf4830336f93fa84a31436b4 *R/utils.R
-41d2363f070fa08ee28282cde3c19697 *README.md
+bb1abd30d36beb9d1fdcdd1c02a51335 *README.md
 35918b642659ae656357a91dd24b0776 *data/agri_trade.rda
 07ab0128dfbd53a21cab16a5a75aa673 *man/agri_trade.Rd
 44764454be260af2f41ba3011e564123 *man/ase.Rd
 b2d2a89ff11d5af68a125e8227325c2a *man/expit.Rd
 e8b6896696dcd3a1849673d5105fe24e *man/figures/README-example-1.png
 6c7cbfe1524333ded2b4a2276454b148 *man/logit.Rd
-044b33130a3ca603606677d7be06f8c2 *man/multiness_fit.Rd
+d6fae3787fe6f392c627170380b9f0a8 *man/multiness_fit.Rd
 6c202f41c607105e2861dea659e7d44a *man/multiness_sim.Rd
